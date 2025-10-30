@@ -1,0 +1,15 @@
+# Папки проекта которые НЕ нужно коммитить
+/Мусор/
+*.log
+
+# Node.js (для /Код)
+node_modules/
+.next/
+out/
+.env*.local
+.env
+.vercel
+
+# Системные файлы
+.DS_Store
+*.pem
