@@ -8,15 +8,15 @@
 
 ### For Vercel Deployment
 
-**IMPORTANT:** Set Root Directory to `Vakansiya.az/code` in Vercel project settings!
+**IMPORTANT:** Set Root Directory to `code` in Vercel project settings!
 
 ```
-Project Settings → General → Root Directory: Vakansiya.az/code
+Project Settings → General → Root Directory: code
 ```
 
 Configuration:
 - **Framework Preset:** Next.js (auto-detected)
-- **Root Directory:** `Vakansiya.az/code`
+- **Root Directory:** `code`
 - **Build Command:** `npm run build` (auto)
 - **Output Directory:** `.next` (auto)
 - **Install Command:** `npm install` (auto)
